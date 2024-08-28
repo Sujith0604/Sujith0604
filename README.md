@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sujith Karthikaiselvan
 - 🧑 I'm an fresher.
 - 💻 I'm an Web Application Developer - Mernstack Developer.
-- 💻 Frontend - HTML, CSS, JAVASCRIPT, TailwindCSS, and ReactJS.
+- 💻 Frontend - HTML, CSS, JavaScript, TailwindCSS, ReactJS and NextJs.
 - 📝 Backend - Nodejs, ExpressJs, MongoDB, and PostgreSQL
 - 👀 I’m interested in Designing and Developing applications.
 - 🌱 I’m currently looking for a job.
