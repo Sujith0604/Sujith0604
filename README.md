@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Sujith Karthikaiselvan
+- 🌍 I'm from Coimbatore, Tamil Nadu - India
+- 🎓 Amrita Viswa Vidyapeetham - Coimbatore, India - Electrical and Electronics Engineering - 2017-2021.
+- 🎓 University of Lincoln - United Kingdom - Robotics and Autonomous Systems - 2021-2022.
 - 🧑 I'm an fresher.
 - 💻 I'm an Web Application Developer - Mernstack Developer.
 - 💻 Frontend - HTML, CSS, JavaScript, TailwindCSS, ReactJS and NextJs.
@@ -7,6 +10,7 @@
 - 🌱 I’m currently looking for a job.
 - 📫 How to reach me - sujithkarthikaiselvan@gmail.com
 - 😄 Pronouns: He/Him
+- 🌐 Porfolio - https://sparkly-choux-9bf336.netlify.app/
 - 🏏 Hobby: I love playing cricket.
 
 <!---
