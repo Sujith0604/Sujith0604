@@ -4,7 +4,7 @@
 - 🎓 University of Lincoln - United Kingdom - Robotics and Autonomous Systems - 2021-2022.
 - 🧑 I'm an fresher.
 - 💻 I'm an Web Application Developer - Mernstack Developer.
-- 💻 Frontend - HTML, CSS, JavaScript, TailwindCSS, ReactJS and NextJs.
+- 💻 Frontend - HTML, CSS, JavaScript, TypeScript, TailwindCSS, ReactJS and NextJs.
 - 📝 Backend - Nodejs, ExpressJs, MongoDB, and PostgreSQL
 - 👀 I’m interested in Designing and Developing applications.
 - 🌱 I’m currently looking for a job.
