@@ -10,7 +10,7 @@
 - 🌱 I’m currently looking for a job.
 - 📫 How to reach me - sujithkarthikaiselvan@gmail.com
 - 😄 Pronouns: He/Him
-- 🌐 Porfolio - https://sparkly-choux-9bf336.netlify.app/
+- 🌐 Porfolio - https://sk-portfolio-blush.vercel.app/
 - 🏏 Hobby: I love playing cricket.
 
 <!---
